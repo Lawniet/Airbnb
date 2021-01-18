@@ -213,6 +213,10 @@ header {
   color: #ff385c;
 }
 
+.link-info {
+  color: #ff385c;
+}
+
 /* HEADER - PROFILE */
 .header__profile {
   display: flex;
